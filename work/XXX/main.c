@@ -5,7 +5,7 @@
 #include <time.h>
 
 typedef struct {
-	int a, b, c, d, length, num;
+	int a, b, c, d, length;
 } text;
 
 char data[400010],answer[400010];
