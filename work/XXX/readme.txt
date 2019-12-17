@@ -1,7 +1,7 @@
 main.c
   a.exe dat1_in.txt answer.txt でdat1_inから入力しanswerに出力
   文字列が短い順にソートし、BM法のずらし表と文字数をもつtext構造体を作成
-    (BM法はhttps://algoful.com/Archive/Algorithm/BMSearch参照)
+    (BM法はhttps://algoful.com/Archive/Algorithm/BMSearch 参照)
   limit文字以上の分割文字列について、BM法で一致したところ全てにその文字列を配置
     →短い方から走査するので一致するところが少ない(→一致するところが正解の確率が高い)長い文字列を後から上書き
    
